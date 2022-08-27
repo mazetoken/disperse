@@ -10,3 +10,5 @@
 a:link {
   text-decoration: underline;
 }
+
+@media screen (max-width: 512px);
