@@ -13,11 +13,12 @@ const Header = ({ address }) => {
           style={{
             width: "64px",
             height: "64px",
-            marginLeft: "-50px",
+            marginLeft: "0px",
           }}
           alt="Dogechain logo"
         />
-        <h2 className="mt-8 text-4xl font-light">D i s p e r s e. Much Wow!</h2>
+        <h2 className="mt-8 text-4xl font-light">D i s p e r s e</h2><br></br>
+        <p>Much wow!</p><br></br>
         {address && (
           <span className="text-l pt-2 font-light">
             {networkContext.network || "🤔"}
