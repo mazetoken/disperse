@@ -12,7 +12,7 @@ const Connect = ({ connect }) => {
       > Connect wallet
       </button>
       <br></br>
-      <p className="mt-6">Unlock MetaMask. Woof-woof!</p>
+      <p className="mt-6">Reload the page if it is not connected. Woof-woof!</p>
     </div>
   );
 };

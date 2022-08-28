@@ -3,7 +3,7 @@ const Recipients = ({ tokenSymbol, textValue, setTextValue }) => {
     <div className="pt-16">
       <h3 className="text-xl font-light font-family monospace">Recipients and amounts</h3>
       <p className="pt-3 text-l font-light">
-        Enter one address and amount in {tokenSymbol} on each line. Supports any format.
+        Enter one address and amount in {tokenSymbol} on each line.
       </p>
       <textarea
         spellCheck="false"
@@ -15,9 +15,7 @@ const Recipients = ({ tokenSymbol, textValue, setTextValue }) => {
           background: "aquamarine",
           color: "black",
         }}
-        placeholder="0x2b1F577230F4D72B3818895688b66abD9701B4dC=1.41421
-        0x2b1F577230F4D72B3818895688b66abD9701B4dC 1.41421
-        0x2b1F577230F4D72B3818895688b66abD9701B4dC,1.41421"
+        placeholder="0x2b1F577230F4D72B3818895688b66abD9701B4dC,1.41421"
       ></textarea>
       <br></br><br></br>
     </div>
