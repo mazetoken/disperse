@@ -17,14 +17,11 @@ module.exports = {
   plugins: [],
   theme: {
     screens: {
-      'mobile': '512px',
-      // => @media (min-width: 512px) { ... }
-      'tablet': '720px',
-      // => @media (min-width: 720px) { ... }
-      'laptop': '1024px',
-      // => @media (min-width: 1024px) { ... }
-      'desktop': '1280px',
-      // => @media (min-width: 1280px) { ... }
-    },
+      'sm': '640px',
+      'md': '768px',
+      'lg': '1024px',
+      'xl': '1280px',
+      '2xl': '1536px',
+    }
   }
 };

@@ -6,7 +6,7 @@ import EthereumSVG from "../assets/dogechain.png";
 const Header = ({ address }) => {
   const networkContext = useContext(NetworkContext);
   return (
-    <div>
+    <div class="text-center sm:text-left">
       <div className="flex space-between">
         <img
           src={EthereumSVG}
