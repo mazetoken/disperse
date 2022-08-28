@@ -27,7 +27,9 @@ const Header = ({ address }) => {
       </div>
       <div></div>
       <p className="pt-8 text-l font-light">
-        Distribute WDOGE or tokens to multiple addresses on <a href="https://dogechain.dog">Dogechain</a>
+        Distribute WDOGE or tokens to multiple addresses on <a href="https://dogechain.dog">Dogechain</a><br></br><br></br>
+        Contract address: <a href="https://explorer.dogmoney.money/address/0x63C8f8A8Dfaf72c22753285534e36718c4fe4F5C/contracts">0x63c8f8a8dfaf72c22753285534e36718c4fe4f5c</a><br></br>
+        <a href="https://github.com/mazetoken/disperse">Github</a>
       </p>
     </div>
   );
