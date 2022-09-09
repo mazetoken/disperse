@@ -12,8 +12,6 @@ Running on [Netlify](https://dispersedoge.netlify.app)
 
 `npm install`
 
-Navigate to frontend directory
-
 `npm run dev` 
 
 ---
