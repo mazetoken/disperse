@@ -4,8 +4,6 @@ Distribute WDOGE or tokens to multiple addresses on Dogechain
 
 ![DisperseIcon](src/assets/disperse256.png)
 
-Running on [Netlify](https://dispersedoge.netlify.app)
-
 [Telegram](https://t.me/mazetokens)
 
 ---
@@ -16,4 +14,5 @@ Running on [Netlify](https://dispersedoge.netlify.app)
 
 ---
 
-based on [Disperse](https://disperse.app/)
+based on [Disperse](https://disperse.app/) and [Disperse-clone](https://github.com/rajkharvar/disperse-clone)
+
